@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/1yLBf-RHtFZckhL-VurbSSw?pwd=yjtq
+>
+> **夸克网盘**：https://pan.quark.cn/s/49e3c9757d97
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/android-ad-cleaner/releases) 下载。
+
+
 # 手机去广告
 
 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。
