@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/49e3c9757d97
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/android-ad-cleaner/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/android-ad-cleaner-CN/releases) 下载。
 
 
 # 手机去广告
